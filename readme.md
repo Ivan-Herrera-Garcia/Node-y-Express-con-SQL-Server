@@ -9,21 +9,21 @@
     <code>npm init</code>
 
 ## 2.Instalacion de librerias/dependencias
-<li>Se deben instalar las siguientes librerias para el funcionamiento de nuestro proyecto</li>
-    <code>npm install express</code>
-    <code>npm install mssql</code>
+<li>Se deben instalar las siguientes librerias para el funcionamiento de nuestro proyecto:</li>
+    <code>npm install express</code><br/>
+    <code>npm install mssql</code><br/>
     De igual manera se puede usar solo "npm i"
 
 ## 3.Escribir el codigo
-    <li>Para esto pueden explorar el codigo con sus notas correspondientes como guia para su propia BD</li>
+<li>Para esto pueden explorar el codigo con sus notas correspondientes como guia para su propia BD</li>
 
 ## 4.Como compilar
 <li>Para esto deben de escribir la siguiente linea en la terminal</li>
-    <code>npm index.js</code>
-    o de igual manera se puede usar el codigo siguiente:
+    <code>npm index.js</code><br/>
+    O de igual manera se puede usar el codigo siguiente:<br/>
     <code>npm start</code>
 
-### Problemas mas comunes con SQL Server 
+# Problemas mas comunes con SQL Server 
 ## Usuario
 <li>Permisos y credenciales: Se debe revisar los permisos del usuario de la base de datos a manipular. Se puede acceder desde <code>Instancia -> Security -> Logins -> Usuario</code></li>
 <li>BD y Datos: Se debe revisar los nombres de las bd y los nombres de las tablas a revisar</li>
